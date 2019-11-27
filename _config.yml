@@ -3,10 +3,10 @@
 permalink:           /:categories/:year/:month/:day/:title/
 
 # Setup
-title:               My Title
-tagline:             My Own Webiste
-description:         Some Amazing Description
-url:                 http://yoururl.com
+title:               Personal Website
+tagline:             place for my work
+description:         This is simply a place to outline my work and write about things
+url:                 https://EIRNf.github.io
 baseurl:             ''
 paginate:            5
 
@@ -15,7 +15,7 @@ plugins:          [jekyll-paginate]
 
 # About/contact
 author:
-  name:              Your Name
-  url:               https://yoururl.com
-  email:             you@gmail.com
+  name:              Esteban Ramos
+  url:               https://EIRNf.github.io
+  email:             estebanramo@gmail.com
 
