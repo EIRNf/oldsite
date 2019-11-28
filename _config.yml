@@ -7,7 +7,7 @@ title:               Personal Website
 tagline:             place for my work
 description:         This is simply a place to outline my work and write about things
 url:                 https://EIRNf.github.io
-baseurl:             '/project'
+baseurl:             ''
 paginate:            5
 
 # Plugins, Tags, Categories and Analytics  
