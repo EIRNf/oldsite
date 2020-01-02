@@ -3,8 +3,8 @@
 permalink:           /:categories/:year/:month/:day/:title/
 
 # Setup
-title:               Personal Website
-tagline:             place for my work
+title:               Esteban Ramos
+tagline:             stuff
 description:         This is simply a place to outline my work and write about things
 url:                 https://EIRNf.github.io
 baseurl:             ''

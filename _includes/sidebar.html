@@ -1,14 +1,17 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+    
+    <!--Here is the title of the site and the description -->
     <div class="sidebar-about">
-      <h1>
+      <h2>
         <a href="{{ "/" | relative_url }}">
           {{ site.title }}
         </a>
-      </h1>
+      </h2>
       <p class="lead">{{ site.description }}</p>
     </div>
 
+    <!--Here is navigation of the site -->
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
 

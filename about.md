@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am Esteban Ramos a programmer currently working at NCR Corporation. I graduated from Emory University with a Bachelor of Science degree in Computer Science and an Applied Math Minor in Dec 2019. This site is supposed to stand as a simple place to showcase my work and stuff I am up to or whatever I find interesting really.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Contact Information
+[Github]()  
+[LinkedIn]()  
+[Email]() (Sometimes checked)  
 
-There are currently two themes built on Poole:
+## About this site
+This website is built ontop of the [Hyde](http://hyde.getpoole.com) theme for [Jekyll](http://jekyllrb.com) and hosted on [GitHub Pages](https://pages.github.com). I easily recommend [Jekyll](http://jekyllrb.com) as a framework to build static sites with, it is simply a pleasure to work with.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+[Hyde](http://hyde.getpoole.com) was made by the fantastic developer [@mdo](https://twitter.com/mdo). 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+A lot of this websites layout was also inspired by the personal website of [Chris Schuld](https://chrisschuld.com/). I do recommend checking out his blog posts on using {Jekyll with Docker](https://chrisschuld.com/2019/02/building-your-own-website-in-jekyll/), it definitely made the process a lot easier.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<div>Icons made by <a href="https://www.flaticon.com/authors/swifticons" title="Swifticons">Swifticons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
