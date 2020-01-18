@@ -1,0 +1,6 @@
+export JEKYLL_VERSION=3.8.6
+
+docker run --env=DEBUG=true --rm --volume="/Users/esteban/github/EIRNf.github.io:/srv/jekyll" -it jekyll/jekyll:$JEKYLL_VERSION jekyll build
+
+docker run --name mydomain.com --env=DEBUG=true --rm --volume="/Users/esteban/github/EIRNf.github.io:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve --watch --drafts
+
