@@ -2,42 +2,75 @@
 layout: page
 title: Resume
 ---
+# Esteban Ignacio Ramos 
+
 Education
 ---------
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2016-2019
+:   **BSc, Computer Science**; 
+Emory University
 
-    *Minor: Awesomeology*
+    *Minor: Applied Mathematics*
 
 Experience
 ----------
+**NCR Corporation, Atlanta Georgia, USA:**
 
-**Your Most Recent Work Experience:**
+Software Engineer
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* I will begin working as a Software Engineer with NCR Corporation starting in mid February
 
-* First item
+**Verint Systems, Atlanta, Georgia, USA**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Software Engineering Intern
 
-**That Other Job You Had**
+* Developed a RESTful API in Java that facilitated querying of internal status information of a complex integration component in a largely self led project that was pushed into production after completion.
 
-Also with a short description.
+* Implemented unit testing (JUnit, Mockito) and gained exposure to  Jenkins automation
 
-Technical Experience
+* Caught a technical bug that misreported information of internal components
+
+Programming Skills
+--------------------
+* Languages:
+    * Java
+    * SQL
+    * C
+
+* Frameworks:  
+    * Git
+
+ Relevant Coursework
+--------------------
+*  Systems Programming, Mathematical Modeling, Computer Security, Database Systems, Assembly Programming, Data Structures, Algorithms, Cryptography, Numerical Analysis
+
+Programming Projects
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+[MCM/ICM: The Interdisciplinary Contest in Modeling(COMAP)](https://www.comap.com/undergraduate/contests/index.html)	
+:   Outstanding Winner
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+* Competed with Emily Rexer and Ishan Saran in the [MCM/ICM 2019](https://www.comap.com/undergraduate/contests/mcm/contests/2019/results/) and chosen as one of the 19 Outstanding Winners out of 11,000 participating teams
+
+* Tasked with the creation of a mathematical computational model and the writing of a [twenty-page paper](https://www.overleaf.com/read/fkptkhyypfmc) over a period of four days
+
+* Paper published in the [Fall 2019 Edition of the UMAP Journal](https://www.comap.com/product/?idx=1667)
+
+Undergraduate Raspberry PI Computer Cluster 
+: Founder		Co-Founders: Simon Marty, Emily Rexer, Yi Wang
+
+* Received funding from the [Emory Techlab](https://it.emory.edu/studentdigitallife/study_production_spaces/tech-lab/index.html) to design and  build a Raspberry PI Cluster to provide to the general student body a low cost/low risk tool to learn about distributed computing and Kubernetes
+
+* Integrated the cluster with the Emory network to provide secure remote access to Kubernetes anywhere on campus
+
+Distributed Systems Research
+: Undergraduate Researcher
+* Worked with [Dr. Arnold](http://www.mathcs.emory.edu/~darnold/) of Emory University on research exploring the simulation of distributed system programs in order to develop better prediction methods to estimate  HPC program runtime
+
+* Current project utilizes a framework built on LogGOPSim to simulate the runtime of programs under different conditions within 5% of accuracy 
+
+* Working on a C++ project that generates generic samples of distributed systems program motifs/designs
+
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
@@ -67,14 +100,13 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
+Additional Skills and Interests
 ----------------------------------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * Spanish (native)
+     * English (fluent)
 
 * Random tidbit
 
