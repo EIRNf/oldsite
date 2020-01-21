@@ -1,5 +1,4 @@
 # Permalinks
-#
 permalink:           /:categories/:year/:month/:day/:title/
 
 # Setup
@@ -9,9 +8,13 @@ description:         This is simply a place to outline my work and write about t
 url:                 https://EIRNf.github.io
 baseurl:             ''
 paginate:            5
+exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+
 
 # Plugins, Tags, Categories and Analytics  
-plugins:          [jekyll-paginate]
+plugins:          
+  - jekyll-paginate
+  - jekyll-youtube
 
 # About/contact
 author:
