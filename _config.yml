@@ -12,7 +12,8 @@ exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle
 
 
 # Plugins, Tags, Categories and Analytics  
-plugins: [jekyll-youtube]
+plugins:          
+  - jekyll-paginate
 
 # About/contact
 author:
