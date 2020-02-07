@@ -2,6 +2,8 @@
 _gh_pages
 _site
 .ruby-version
+website.code-workspace
+
 
 # Numerous always-ignore extensions
 # *.txt

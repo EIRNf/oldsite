@@ -15,6 +15,7 @@ exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle
 plugins:          
   - jekyll-paginate
 
+
 # About/contact
 author:
   name:              Esteban Ramos
