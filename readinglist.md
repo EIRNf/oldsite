@@ -7,7 +7,7 @@ title: Reading List
 ## Programming
 
 Programming Pearls - John L. Bentley
-Introduction to Algorithms
+[Introduction to Algorithms](https://www.google.com/books/edition/Introduction_to_Algorithms/aefUBQAAQBAJ?hl=en&gbpv=0)
 Cracking the Coding Interview
 Head First C
 
@@ -24,5 +24,5 @@ A House of Leaves
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzE5NDc0MV19
+eyJoaXN0b3J5IjpbLTExNjE0MTU5MjRdfQ==
 -->
