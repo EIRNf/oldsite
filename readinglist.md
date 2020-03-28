@@ -6,7 +6,7 @@ title: Reading List
 # Technical Reading
 ## Programming
 
-Programming Pearls - John L. Bentley
+[Programming Pearls](https://books.google.com/books/about/Programming_Pearls.html?id=sWcPAQAAMAAJ&source=kp_book_description) - John L. Bentley
 [Introduction to Algorithms](https://www.google.com/books/edition/Introduction_to_Algorithms/aefUBQAAQBAJ?hl=en&gbpv=0)
 Cracking the Coding Interview
 Head First C
@@ -24,5 +24,5 @@ A House of Leaves
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjE0MTU5MjRdfQ==
+eyJoaXN0b3J5IjpbLTE1MzE3Mjk5MTVdfQ==
 -->
